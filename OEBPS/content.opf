@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" xml:lang="es-ES" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 20.2" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>Herramientas Digitales</dc:title>
+		<dc:creator>Elizabeth Quintero Ramos</dc:creator>
+		<dc:subject>Herramientas digitales &quot;las nuevas tecnologias en el aula&quot;</dc:subject>
+		<dc:description>&quot;Herramientas digitales: Las nuevas tecnologías en el aula&quot; es un libro que presenta una guía práctica y accesible para educadores y profesionales de la educación sobre cómo integrar herramientas digitales en el aula.  </dc:description>
+		<dc:publisher>Elizabeth Quintero Ramos</dc:publisher>
+		<dc:date>marzo 2025</dc:date>
+		<dc:rights>todos los derechos</dc:rights>
+		<dc:language>es-ES</dc:language>
+		<meta property="dcterms:modified">2025-03-21T05:28:04Z</meta>
+		<dc:identifier id="bookid">urn:uuid:35fbb1ce-522f-4d32-97c3-5180b4b62292</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">portrait</meta>
+		<meta property="rendition:spread">none</meta>
+		<!--accessibility options-->
+	</metadata>
+	<manifest>
+		<item id="Epub_Herramients_Digitales-1" href="Epub_Herramients_Digitales-1.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Epub_Herramients_Digitales-2" href="Epub_Herramients_Digitales-2.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Epub_Herramients_Digitales-3" href="Epub_Herramients_Digitales-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Epub_Herramients_Digitales-4" href="Epub_Herramients_Digitales-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Epub_Herramients_Digitales-5" href="Epub_Herramients_Digitales-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Epub_Herramients_Digitales-6" href="Epub_Herramients_Digitales-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Epub_Herramients_Digitales-7" href="Epub_Herramients_Digitales-7.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Epub_Herramients_Digitales-8" href="Epub_Herramients_Digitales-8.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="Arial-ItalicMT.ttf" href="font/Arial-ItalicMT.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="Calibri-BoldItalic.ttf" href="font/Calibri-BoldItalic.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="Calibri.ttf" href="font/Calibri.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="MinionPro-Regular.otf" href="font/MinionPro-Regular.otf" media-type="application/vnd.ms-opentype" />
+		<item id="Tahoma-Bold.ttf" href="font/Tahoma-Bold.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="TimesNewRomanPS-BoldItalicMT.ttf" href="font/TimesNewRomanPS-BoldItalicMT.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="TimesNewRomanPS-ItalicMT.ttf" href="font/TimesNewRomanPS-ItalicMT.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x4.png" href="image/4.png" media-type="image/png" />
+		<item id="x5.png" href="image/5.png" media-type="image/png" />
+		<item id="x6.png" href="image/6.png" media-type="image/png" />
+		<item id="x7.png" href="image/7.png" media-type="image/png" />
+		<item id="x8.png" href="image/8.png" media-type="image/png" />
+		<item id="x9.png" href="image/9.png" media-type="image/png" />
+		<item id="caret-left-solid.png" href="image/caret-left-solid.png" media-type="image/png" />
+		<item id="caret-right-solid.png" href="image/caret-right-solid.png" media-type="image/png" />
+		<item id="Chamilo_LMS.svg.png" href="image/Chamilo_LMS.svg.png" media-type="image/png" />
+		<item id="classroom_1.png" href="image/classroom_1.png" media-type="image/png" />
+		<item id="Edmodo_logo.png" href="image/Edmodo_logo.png" media-type="image/png" />
+		<item id="house_solid.png" href="image/house_solid.png" media-type="image/png" />
+		<item id="Imagen_2.png" href="image/Imagen_2.png" media-type="image/png" />
+		<item id="imagen_portada_1.jpg" href="image/imagen_portada_1.jpg" media-type="image/jpeg" />
+		<item id="Kahoot_Logo.png" href="image/Kahoot_Logo.png" media-type="image/png" />
+		<item id="kahoot_sample.png" href="image/kahoot_sample.png" media-type="image/png" />
+		<item id="LOGO_CANVA.png" href="image/LOGO_CANVA.png" media-type="image/png" />
+		<item id="logo_viud.png" href="image/logo_viud.png" media-type="image/png" />
+		<item id="miro_logo.png" href="image/miro_logo.png" media-type="image/png" />
+		<item id="Moodle-Logo.wine.png" href="image/Moodle-Logo.wine.png" media-type="image/png" />
+		<item id="Psicologa_Angelica.jpg.jpg" href="image/Psicologa_Angelica.jpg.jpg" media-type="image/jpeg" />
+		<item id="idGeneratedScript.js" href="script/idGeneratedScript.js" media-type="text/javascript" />
+		<item id="Dispositivos_Moviles.mp4" href="video/Dispositivos_Moviles.mp4" media-type="video/mp4" />
+	</manifest>
+	<spine>
+		<itemref idref="Epub_Herramients_Digitales-1" />
+		<itemref idref="Epub_Herramients_Digitales-2" />
+		<itemref idref="Epub_Herramients_Digitales-3" />
+		<itemref idref="Epub_Herramients_Digitales-4" />
+		<itemref idref="Epub_Herramients_Digitales-5" />
+		<itemref idref="Epub_Herramients_Digitales-6" />
+		<itemref idref="Epub_Herramients_Digitales-7" />
+		<itemref idref="Epub_Herramients_Digitales-8" />
+	</spine>
+</package>
